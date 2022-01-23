@@ -1,0 +1,27 @@
+{
+  "name": "postman-to-axios",
+  "version": "1.0.0",
+  "description": "This package converts postman collections into defined axios functions.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gnrbrhm/postman-to-axios.git"
+  },
+  "keywords": [
+    "postman",
+    "axios",
+    "auto",
+    "converter",
+    "npm",
+    "javascript"
+  ],
+  "author": "gnrbhrm",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gnrbrhm/postman-to-axios/issues"
+  },
+  "homepage": "https://github.com/gnrbrhm/postman-to-axios#readme"
+}
